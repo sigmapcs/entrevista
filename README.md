@@ -1,4 +1,4 @@
 # Framework #
 Framework desarrollando por Sigmapcs
 
-Usando PUF, SCSS, ES6
+Usando PUF, SCSS, ES6# entrevista
